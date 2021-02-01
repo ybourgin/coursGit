@@ -1,0 +1,6 @@
+Bonjour,
+
+ceci est un test pour :
+> git add .
+> git commit -m '[message]'
+> git push
