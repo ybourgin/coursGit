@@ -1,0 +1,13 @@
+#Fichier de test
+
+**Faire des essaies avec les commandes:**
+
+git status
+git add
+git status
+git commit
+git status
+git push
+git status
+
+__puis récupérer la dernière version du serveur__

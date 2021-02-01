@@ -1,2 +1,5 @@
 # coursGit
-Dépôt d'entrainement pour le cour sur Git avec David de chez HB.
+
+##Mon Super code
+
+Dépôt d'entrainement pour le cour sur Git avec _David_ de chez **HB**.
